@@ -1,6 +1,6 @@
 # Wordpress guidelines sablona
 
-![wp-logo](https://s.w.org/style/images/about/WordPress-logotype-wmark.png){:height="255" width="255"}
+![wp-logo](https://s.w.org/style/images/about/WordPress-logotype-wmark.png)
 
 ## Coding standards
 - mene dulezite oproti nezavislym aplikacim, presto ma do jiste miry smysl / brat v potaz hranice WPcore
