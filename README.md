@@ -1,7 +1,7 @@
 # Wordpress guidelines sablona
 ![wp-logo](https://s.w.org/style/images/about/WordPress-logotype-wmark.png)
 ## Coding standards
-- mene dulezite oproti nezavislym aplikacim, presto ma do jiste miry smysl / brat v potaz hranice WPcore
+- nelze prosazovat napric celym projektem, presto dava smysl + brat v potaz hranice WPcore
     - mozna inspirace [v nasich CS](https://argo22.atlassian.net/wiki/spaces/ROAS/pages/459276350/PHP+Coding+Standards) (zrejme treba update)
     - nebo fallback na [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)/[PSR-12](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-12-extended-coding-style-guide.md) + pripadne nase amendments
 - good-practice pluginy, stridmost, guidelines ohledne obrazku, cachovani
@@ -10,7 +10,7 @@
 ## Struktura projektu
 - struktura de facto dana WP
 - radeji confirm w/ Pavel?
-- vetsina dat v DB anyaways
+- vetsina dat v DB anyways
 
 ## Podoba readme
 - popis nutnych promennych, ktere nejsou pod VCS
